@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>flucard.png</file>
+        <file>shadow.png</file>
+    </qresource>
+</RCC>
