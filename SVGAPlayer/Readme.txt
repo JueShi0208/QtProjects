@@ -8,3 +8,7 @@
     解决方案就是升级protobuf或者zlib。请去官方网站下载protobuf和zlib
     目前官网放出了svga的iOS、Android、Web版本，没有PC版的，因此我这个就是就PC版本。
     此代码来源于https://github.com/moon-l/SvgaPlayer，但是删除了其他多余的部分，只保留了Qt本身的播放svga。
+
+附加：
+    Qt使用Qt5.12，但是如果编译器是mingw，请看下面的链接，将protobuf重新编译。
+    protobuf生成Qt工程：https://blog.csdn.net/weixin_30414305/article/details/94955898
